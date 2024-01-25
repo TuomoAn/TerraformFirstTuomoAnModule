@@ -1,0 +1,1 @@
+### This is a Terraform Module by TuomoAn, to create an Azure Resource Group and an Azure Storage Account
